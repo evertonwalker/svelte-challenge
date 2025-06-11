@@ -15,10 +15,6 @@ Once you've created a project and installed dependencies with `npm install` star
 npm run dev
 ```
 
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
-
 ## Overview
 
 Small thing: I was looking the challenge code, and the array which I received dind't have category to create the drodpown, so instead I implemented the filter using description.
